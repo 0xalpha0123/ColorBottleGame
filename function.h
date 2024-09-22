@@ -1,0 +1,14 @@
+void explation();//³W«h 
+void HideCursor();
+int random(int,int);
+int col(int);
+void gotoxy(int,int);
+void welcometogame();
+void endgame();
+void change();
+void startup();
+void input();
+void outinput();
+int de_ch();
+int de_end();
+void dod();
